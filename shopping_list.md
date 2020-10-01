@@ -3,4 +3,4 @@ food for dog
 keyboard
 Book
 Laptop
-
+chair
