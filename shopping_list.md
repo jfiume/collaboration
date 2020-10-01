@@ -4,3 +4,5 @@ keyboard
 Book
 Laptop
 chair
+Table
+
