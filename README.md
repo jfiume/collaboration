@@ -1,2 +1,2 @@
 # collaboration
-Joseph Fiume    jaf642@nau.edu
+Joseph Fiume    jaf642
